@@ -1,4 +1,4 @@
-# CPSC 349 Final question
+# CPSC 349 Final question (REACT CALCULATOR)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
